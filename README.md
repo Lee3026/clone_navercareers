@@ -1,23 +1,29 @@
-## Project setup
+## 작업 정보
 
 ```
+
+### Project setup
+
+```
+
 npm install
-```
-
-### Compiles and hot-reloads for development
 
 ```
-npm run serve
-```
 
-### Compiles and minifies for production
+### 배포 url
 
 ```
-npm run build
-```
 
-### Lints and fixes files
+https://lee3026.github.io/clone_navercareers/
 
 ```
-npm run lint
+
+### 작업한 페이지
+
+```
+
+home, people(서브)
+
+```
+
 ```
